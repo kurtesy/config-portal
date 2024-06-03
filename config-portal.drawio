@@ -1,53 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T20:09:57.626Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Eh8Wcs05UakObWm2XSsE" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T16:12:56.360Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="iXli9Qmp8v-NY2YEybwX" version="24.4.8" type="github">
   <diagram name="Page-1" id="PULqqrfgt7xBcSrC0Y7G">
     <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vwz2cHIAMGs-BHEvmkzz-1" value="Region" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwz2cHIAMGs-BHEvmkzz-1" value="Region" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vwz2cHIAMGs-BHEvmkzz-2" value="Country" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwz2cHIAMGs-BHEvmkzz-2" value="Country" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vwz2cHIAMGs-BHEvmkzz-3" value="Brand" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwz2cHIAMGs-BHEvmkzz-3" value="Brand" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vwz2cHIAMGs-BHEvmkzz-4" value="Entity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwz2cHIAMGs-BHEvmkzz-4" value="Entity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vwz2cHIAMGs-BHEvmkzz-6" value="Brand &amp;amp; Brand Options" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwz2cHIAMGs-BHEvmkzz-6" value="Brand &amp;amp; Brand Options" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vwz2cHIAMGs-BHEvmkzz-7" value="Menu Config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwz2cHIAMGs-BHEvmkzz-7" value="Menu Config" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vwz2cHIAMGs-BHEvmkzz-8" value="Photo Config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwz2cHIAMGs-BHEvmkzz-8" value="Photo Config" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vwz2cHIAMGs-BHEvmkzz-9" value="Email Config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwz2cHIAMGs-BHEvmkzz-9" value="Email Config" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vwz2cHIAMGs-BHEvmkzz-10" value="OT Config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwz2cHIAMGs-BHEvmkzz-10" value="OT Config" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vwz2cHIAMGs-BHEvmkzz-11" value="Master category Config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwz2cHIAMGs-BHEvmkzz-11" value="Master category Config" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vwz2cHIAMGs-BHEvmkzz-12" value="Feature flag Config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwz2cHIAMGs-BHEvmkzz-12" value="Feature flag Config" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vwz2cHIAMGs-BHEvmkzz-13" value="State Config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwz2cHIAMGs-BHEvmkzz-13" value="State Config" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vwz2cHIAMGs-BHEvmkzz-14" value="Step Config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwz2cHIAMGs-BHEvmkzz-14" value="Step Config" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vwz2cHIAMGs-BHEvmkzz-15" value="Static DB Config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwz2cHIAMGs-BHEvmkzz-15" value="Static DB Config" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vwz2cHIAMGs-BHEvmkzz-16" value="Country" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwz2cHIAMGs-BHEvmkzz-16" value="Country" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="480" width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="6gv4GrQl_dMPubifsZ_j-1" value="Collection: Country" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="200" y="780" width="340" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="6gv4GrQl_dMPubifsZ_j-2" value="Entitiy-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6gv4GrQl_dMPubifsZ_j-3" value="Entitiy-2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6gv4GrQl_dMPubifsZ_j-4" value="Entitiy-3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6gv4GrQl_dMPubifsZ_j-5" value="Entitiy-4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6gv4GrQl_dMPubifsZ_j-6" value="Entitiy-2" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="670" y="770" width="260" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="6gv4GrQl_dMPubifsZ_j-9" value="All kinds of Configurations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
